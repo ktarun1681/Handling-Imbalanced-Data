@@ -1,4 +1,4 @@
-# Handle-imbalanced-data
+# Handling-Imbalanced-Data
 Get familiar with various techniques to handle the imbalanced class.
 
 We have implemented the following imbalance data handeling techniques:
